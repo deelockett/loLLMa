@@ -1,0 +1,11 @@
+name: numpy-env
+dependencies:
+- python=3
+- pandas
+- pip
+- matplotlib
+- scikit-learn
+- scipy
+- seaborn
+- jupyter
+- numpy
